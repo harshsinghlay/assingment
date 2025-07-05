@@ -1,6 +1,6 @@
 import AdminPanelImage from './AdminPanel.png';
 import EventMail from './eventmail.png';
-import FooterBg from './FooterBg.png';
+import FooterBg from './Footerbg.png';
 import GradientFrame from './Frame 1321314953.png';
 import HeroBg from './HeroBg.png';
 import HeroImg from './HeroImg.png';
