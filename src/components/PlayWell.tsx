@@ -4,7 +4,7 @@ function PlayWell() {
     return (
         <div>
             <section>
-                <div className="h-[1054px] bg-primary rounded-4xl flex justify-center items-center text-center">
+                <div className="h-[600px] my-10 bg-primary rounded-4xl flex justify-center items-center text-center mt-8">
                     <div className="max-w-[425px] mx-auto text-white flex flex-col gap-[20px] items-center">
                         <h2
                             className="font-ruberoid text-4xl 

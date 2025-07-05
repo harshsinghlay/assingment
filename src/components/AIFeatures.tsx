@@ -6,7 +6,7 @@ function AIFeatures() {
         <section className="bg-gradient-to-b from-white via-orange-50 to-white flex flex-col lg:items-start lg:justify-between w-10/12 mx-auto gap-6 font-ruberoid my-20">
             <div className="w-full space-y-4 flex lg:flex-row flex-col justify-between lg:items-end">
                 <div className="">
-                    <p className="text-lg font-semibold text-[#100249] lg:mb-8">
+                    <p className="text-lg font-semibold text-[#100249] mb-2 lg:mb-8">
                         AI-Powered Features
                     </p>
                     <h2 className="text-3xl lg:text-5xl font-semibold text-primary">
