@@ -73,7 +73,7 @@ function Footer() {
                                 <div className="flex flex-col xl:flex-row md:items-center gap-4 mt-4 mb-6">
                                     <div className="flex -space-x-2">
                                         <img
-                                            src={User1}
+                                            src={User3}
                                             className="w-16 h-16 rounded-full border-4 border-white bg-[#DCCEFC]"
                                         />
                                         <img
@@ -81,7 +81,7 @@ function Footer() {
                                             className="w-16 h-16 rounded-full border-4 border-white bg-[#FFE184]"
                                         />
                                         <img
-                                            src={User3}
+                                            src={User1}
                                             className="w-16 h-16 rounded-full border-4 border-white bg-[#08BC8D]"
                                         />
                                     </div>
