@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Ruberoid';
+  src: url('./assets/fonts/Ruberoid.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@theme {
+  --font-ruberoid: 'Ruberoid', sans-serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+  --color-primary: #420886;
+  --color-secondary: #100249;                            
+}
+
